@@ -68,10 +68,9 @@ php artisan db:seed
 ## Running the application
 
 #### Comes with couple of default users
-User credentials are as follows
+create User credentials are as follows
 ```
-1. Email: anakin@starwars.com | Password: secret
-2. Email: luke@starwars.com | Password: secret
+php artisan passport:install
 ```
 ## PHPUnit Test
 To run the unit test, go to the project root and run
