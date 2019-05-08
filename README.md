@@ -66,7 +66,6 @@ php artisan migrate
 php artisan db:seed
 ```
 ## Running the application
-Run the application in a **Virtual Host**
 
 #### Comes with couple of default users
 User credentials are as follows
@@ -79,3 +78,4 @@ To run the unit test, go to the project root and run
 ```
 phpunit
 ```
+
