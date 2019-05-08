@@ -29,8 +29,8 @@ This chart should update dynamically.
 ```
 
 # Assumption
-** 1. Add new task can only set task name, description, expect finish time
-** 2. Function changing task status does not be contained in the solution 
+** 1. Add new task can only set task name, description, expect finish time **
+** 2. Function changing task status does not be contained in the solution **
 
 # To install, Please following the steps following.
 
